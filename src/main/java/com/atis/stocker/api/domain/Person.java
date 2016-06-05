@@ -1,4 +1,4 @@
-package com.atis.stoker.domain;
+package com.atis.stocker.api.domain;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;

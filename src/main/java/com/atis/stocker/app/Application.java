@@ -1,4 +1,4 @@
-package com.atis.stoker.app;
+package com.atis.stocker.app;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
